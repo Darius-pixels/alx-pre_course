@@ -1,3 +1,2 @@
-#!/bin/basAL
-ALX SchoOL
-
+#!/bin/bash
+echo "ALX School"
